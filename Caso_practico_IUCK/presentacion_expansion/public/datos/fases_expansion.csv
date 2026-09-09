@@ -1,0 +1,21 @@
+fase,estado,n_3b_actual,n_suelo_fertil,ingreso_trim_2024,dentro_isocrona_90min
+Año 1 - Densificar,Tlaxcala,35,13522,58833.8954117987,True
+Año 1 - Densificar,México,916,101736,74161.7932716856,True
+Año 1 - Densificar,Michoacán de Ocampo,101,32715,68233.8790480951,True
+Año 1 - Densificar,Puebla,155,53869,62161.6394297658,True
+Año 1 - Densificar,Ciudad de México,336,38996,110684.847460914,True
+Año 1 - Densificar,Hidalgo,172,16698,59460.7850570816,True
+Año 1 - Densificar,Aguascalientes,33,5679,89819.456933644,True
+Año 1 - Densificar,Morelos,130,12962,66194.7129545029,True
+Año 1 - Densificar,Querétaro,57,8808,97614.6432849339,True
+Año 2 - Extender dentro de alcance,Oaxaca,1,33353,52024.8931632056,True
+Año 2 - Extender dentro de alcance,Guanajuato,108,32354,74544.7484356233,True
+Año 2 - Extender dentro de alcance,Jalisco,9,40288,87198.982104813,True
+Año 2 - Extender dentro de alcance,Veracruz de Ignacio de la Llave,142,43681,53030.4179857877,True
+Año 2 - Extender dentro de alcance,Zacatecas,0,7875,60291.9710762925,True
+Año 2 - Extender dentro de alcance,San Luis Potosí,29,13369,73204.9674211823,True
+Año 3 - Nuevas fronteras,Yucatán,0,13705,79972.1084247346,False
+Año 3 - Nuevas fronteras,Colima,0,3510,86241.1885160266,False
+Fuera del plan de 3 años (bolsillo insuficiente),Chiapas,0,40783,41083.7712658137,False
+Fuera del plan de 3 años (bolsillo insuficiente),Nayarit,4,6365,74601.1312547148,False
+Fuera del plan de 3 años (bolsillo insuficiente),Campeche,0,5595,66235.7671024304,False

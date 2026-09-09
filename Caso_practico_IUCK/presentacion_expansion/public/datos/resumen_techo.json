@@ -1,0 +1,58 @@
+{
+  "descriptivo_nacional": {
+    "ingreso_min": 41083.7712658137,
+    "ingreso_max": 117033.881116807,
+    "ingreso_promedio": 77041.01936752463,
+    "ratio_min": 1820.264522481129,
+    "ratio_max": 5144.758490566038,
+    "ratio_promedio": 3127.0374914271974
+  },
+  "estimador_territorial": {
+    "benchmark_estado": "Nuevo León",
+    "benchmark_ratio": 1820.264522481129,
+    "poblacion_total_nacional": 126014024,
+    "poblacion_urbana_nacional": 99030496,
+    "tasa_urbanizacion_calculada": 0.7858688490100117,
+    "organizado_nacional_actual": 32724,
+    "total_teorico_saturacion": 54404.453186295985,
+    "espacio_libre_nacional": 21680.453186295985,
+    "participacion_3b_observada_mercados_maduros": 0.15379152268986532,
+    "participacion_3b_usada_min": 0.15,
+    "participacion_3b_usada_max": 0.2,
+    "red_actual": 2280,
+    "techo_territorial_min": 5532.067977944398,
+    "techo_territorial_max": 6616.090637259197
+  },
+  "estimador_economico": [
+    {
+      "escenario": "conservador",
+      "cartera_canal": 0.08,
+      "participacion_3b": 0.15,
+      "gasto_direccionable_3b_anual": 33515842501.991997,
+      "venta_anual_por_tienda_supuesta": 11497500,
+      "tiendas_sostenidas": 2915.0547946938027
+    },
+    {
+      "escenario": "medio",
+      "cartera_canal": 0.11,
+      "participacion_3b": 0.175,
+      "gasto_direccionable_3b_anual": 53764997346.945496,
+      "venta_anual_por_tienda_supuesta": 11497500,
+      "tiendas_sostenidas": 4676.233733154642
+    },
+    {
+      "escenario": "optimista",
+      "cartera_canal": 0.14,
+      "participacion_3b": 0.2,
+      "gasto_direccionable_3b_anual": 78203632504.64801,
+      "venta_anual_por_tienda_supuesta": 11497500,
+      "tiendas_sostenidas": 6801.794520952208
+    }
+  ],
+  "gasto_alimentos_nacional_anual": 2792986875166.0,
+  "conteo_estrategia_por_estado": {
+    "sin_prioridad_clara": 12,
+    "densificar": 9,
+    "alcanzar_nuevo_territorio": 11
+  }
+}

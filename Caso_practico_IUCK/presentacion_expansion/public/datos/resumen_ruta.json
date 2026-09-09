@@ -1,0 +1,35 @@
+{
+  "ingreso_promedio_nacional_referencia": 77041.01936752463,
+  "estados_fase1_densificar": [
+    "Tlaxcala",
+    "México",
+    "Michoacán de Ocampo",
+    "Puebla",
+    "Ciudad de México",
+    "Hidalgo",
+    "Aguascalientes",
+    "Morelos",
+    "Querétaro"
+  ],
+  "estados_fase2_extender": [
+    "Oaxaca",
+    "Guanajuato",
+    "Jalisco",
+    "Veracruz de Ignacio de la Llave",
+    "Zacatecas",
+    "San Luis Potosí"
+  ],
+  "estados_fase3_nuevas_fronteras": [
+    "Yucatán",
+    "Colima"
+  ],
+  "estados_excluidos_por_bolsillo": [
+    "Chiapas",
+    "Nayarit",
+    "Campeche"
+  ],
+  "tiendas_planeadas_anio1": 702,
+  "tiendas_planeadas_anio2": 648,
+  "tiendas_planeadas_anio3": 450,
+  "tiendas_total_3_anios": 1800
+}
